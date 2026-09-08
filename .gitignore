@@ -1,0 +1,22 @@
+# Binários compilados
+gopy
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Diretórios de documentação e planejamento
+docs/
+
+# Diretórios de teste
+test/
+tests/
+__pycache__/
+
+# Go específicos
+vendor/
+go.work
+gopy.md
