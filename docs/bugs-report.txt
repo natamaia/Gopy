@@ -1,0 +1,2 @@
+time: 04:57am:  acionado o gopy e gopy --ui no memso diretorio, relazado as seguintes ações: clicar no dropdown fecha a janela com o click direito e esquerdo, button de fixar não realiza nada, button de diretorio não realiza nada
+
